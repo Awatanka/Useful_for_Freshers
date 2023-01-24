@@ -4,8 +4,9 @@
 <h4> Coding practice </h4>
 <ol>
   <li> https://leetcode.com/ </li>
-https://www.hackerrank.com/
-
+<li> https://www.hackerrank.com/ </li>
+  <li> https://www.codewars.com/ </li>
+  <li> https://coderbyte.com/ </li>
 </ol>
 
 <h4> Interview practice </h4>
