@@ -1,14 +1,14 @@
 # Useful_for_Freshers
 
 
-# Coding practice 
+<h4> Coding practice </h4>
 <ol>
   <li> https://leetcode.com/ </li>
 https://www.hackerrank.com/
 
 </ol>
 
-#Interview practice
+<h4> Interview practice </h4>
 <ul>
 <li> <link> https://github.com/yangshun/tech-interview-handbook </link> </li>
 <li> <link> https://levelup.gitconnected.com/ace-the-coding-interview-3405dbcc443 </link> </li>
