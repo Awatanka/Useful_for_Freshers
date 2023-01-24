@@ -1,5 +1,8 @@
 # Useful_for_Freshers
 
+<p> We are living in an age of rapid technological advancement, and the demand for web developers is higher than ever before. The opportunities for us to learn, grow and innovate are endless. We have the potential to create something truly amazing, something that can have a positive impact on the world.
+
+But let us not forget that the journey to greatness is not an easy one. It requires hard work, determination and constant learning. We must be willing to push ourselves out of our comfort zones and embrace new technologies and techniques. We must be open to feedback and willing to make mistakes, because it is through our mistakes that we learn and grow.</p>
 
 <h4> Coding practice </h4>
 <ol>
