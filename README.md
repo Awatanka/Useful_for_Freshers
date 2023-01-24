@@ -1,4 +1,4 @@
-# Useful_for_Freshers
+# Useful_for_Freshers ⭐️
 
 <p> We are living in an age of rapid technological advancement, and the demand for web developers is higher than ever before. The opportunities for us to learn, grow and innovate are endless. We have the potential to create something truly amazing, something that can have a positive impact on the world.
 
