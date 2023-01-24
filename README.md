@@ -22,12 +22,12 @@
 
  Although, you should tailor your questions to the specific situation, here are some examples of meaningful questions you can ask:
  <li> What frameworks, tech stack, tools, etc. does your team employ? </li>
- What do you like most about working here?
- Which development processes and tools do you implement?
-How do you test your code?
-Do you offer opportunities for professional development and training?
-What’s the most challenging project you’ve worked on during your time in the company?
-Is there anything about my resume/application that gives you pause? (This can be an effective way of getting ahead of anything on your application that the interviewers might think is a weakness/red flag) </p>
+  <li>What do you like most about working here?</li>
+  <li>Which development processes and tools do you implement?</li>
+ <li>How do you test your code?</li>
+ <li>Do you offer opportunities for professional development and training?</li>
+ <li>What’s the most challenging project you’ve worked on during your time in the company?</li>
+ <li>Is there anything about my resume/application that gives you pause? (This can be an effective way of getting ahead of anything on your application that the interviewers might think is a weakness/red flag)</li>
 
 
 
