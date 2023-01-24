@@ -20,10 +20,10 @@
 </ul>
 
 
-<p> Although, you should tailor your questions to the specific situation, here are some examples of meaningful questions you can ask:
-- What frameworks, tech stack, tools, etc. does your team employ?
-- What do you like most about working here?
-- Which development processes and tools do you implement?
+ Although, you should tailor your questions to the specific situation, here are some examples of meaningful questions you can ask:
+ <li> What frameworks, tech stack, tools, etc. does your team employ? </li>
+ What do you like most about working here?
+ Which development processes and tools do you implement?
 How do you test your code?
 Do you offer opportunities for professional development and training?
 What’s the most challenging project you’ve worked on during your time in the company?
